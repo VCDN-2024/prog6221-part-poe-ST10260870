@@ -1,4 +1,4 @@
-#ReadMe#
+ReadMe
 
 Recipe Application
 Introduction
@@ -38,6 +38,7 @@ Click "Clear Recipe" to remove all entered recipes and start fresh.
 
 This Recipe Application was developed by Shivek Hiraman (ST10260870) 
 
-Github Repo Link: 
+Github Repo Link: https://github.com/VCDN-2024/prog6221-part-poe-ST10260870.git
+
 
 
